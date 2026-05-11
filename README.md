@@ -74,18 +74,6 @@ El análisis fue desarrollado a partir de una base de datos de clientes con info
 
 ---
 
-# 🚀 Resultados Clave del Negocio
-
-| KPI Estratégico | Resultado |
-|---|---|
-| Tasa total de churn | 26.54% de los clientes presentan abandono |
-| Riesgo contractual | Clientes con contratos mensuales concentran la mayor tasa de fuga |
-| Sensibilidad al precio | Clientes con cargos elevados muestran mayor probabilidad de cancelación |
-| Segmento crítico | Servicio de fibra óptica presenta niveles superiores de churn |
-| Precisión predictiva | Modelo de Machine Learning con aproximadamente 80% de precisión |
-
----
-
 # 📦 KPIs Estratégicos Analizados
 
 - Tasa de churn
