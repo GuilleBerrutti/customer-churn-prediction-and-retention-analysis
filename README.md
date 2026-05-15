@@ -36,7 +36,7 @@ Esto generaba inversión comercial sin priorización estratégica y pérdida con
 
 # ❓ Pregunta Estratégica
 
-> ¿Qué variables impulsan el churn y cómo puede la organización anticipar cancelaciones para reducir pérdida de ingresos y optimizar estrategias de fidelización?
+ ¿Qué variables impulsan el churn y cómo puede la organización anticipar cancelaciones para reducir pérdida de ingresos y optimizar estrategias de fidelización?
 
 ---
 
