@@ -121,28 +121,3 @@ El análisis fue desarrollado utilizando información relacionada a:
 
 📥 **Acceso al dataset:**  
 👉 [Descargar dataset de churn](Data/customer_churn_dataset.xlsx)
-
----
-
-# 📁 Estructura del Repositorio
-
-```text
-analysis-churn/
-│
-├── README.md
-│
-├── dashboard/
-│   └── customer_retention_dashboard.pbix
-│
-├── data/
-│   └── customer_churn_dataset.xlsx
-│
-├── python/
-│   └── churn_prediction_model.py
-│
-├── sql/
-│   └── churn_data_cleaning.sql
-│
-└── img/
-    ├── grafica-analisis-churn.png
-    └── variable_de_fuga.png
