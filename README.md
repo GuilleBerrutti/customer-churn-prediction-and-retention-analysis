@@ -32,7 +32,7 @@ Como consecuencia, la empresa destinaba recursos de retención sin una estrategi
 
 # ❓ Pregunta Estratégica del Proyecto
 
-> ¿Qué variables explican el abandono de clientes y cómo puede la organización anticipar cancelaciones para intervenir antes de la pérdida del cliente?
+¿Qué variables explican el abandono de clientes y cómo puede la organización anticipar cancelaciones para intervenir antes de la pérdida del cliente?
 
 ---
 
