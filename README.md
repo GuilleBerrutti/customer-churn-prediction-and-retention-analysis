@@ -95,9 +95,6 @@ El proyecto demuestra cómo la combinación de analítica avanzada, visualizaci�
   <img src="img/variable_de_fuga.png" width="75%">
 </p>
 
-
-![Importancia de Variables](img/variable_de_fuga.png)
-
 ---
 
 # 🛠️ Stack Tecnológico
