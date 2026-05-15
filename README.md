@@ -76,61 +76,6 @@ Esto generaba inversión comercial sin priorización estratégica y pérdida con
 
 ---
 
-# 🤖 Modelo Predictivo de Churn
-
-Se implementó un modelo de Regresión Logística utilizando Scikit-learn para estimar probabilidad de abandono y detectar variables de mayor impacto sobre churn.
-
-## 📊 Capacidades del Modelo
-
-- Predicción de churn por cliente
-- Segmentación automática de riesgo
-- Priorización de campañas de retención
-- Identificación de variables críticas
-- Scoring predictivo de abandono
-
-![Importancia de Variables](img/variable_de_fuga.png)
-
----
-
-# 📦 KPIs Estratégicos Analizados
-
-- Churn Rate
-- Riesgo por tipo de contrato
-- Churn por servicio contratado
-- Customer Lifetime Value potencial
-- Riesgo por antigüedad
-- Sensibilidad al pricing
-- Riesgo predictivo de cancelación
-- Distribución de segmentos críticos
-
----
-
-# 🛠️ Metodología Analítica
-
-## 📥 Ingeniería y Preparación de Datos
-
-- Limpieza de datos con SQL
-- Tratamiento de valores faltantes
-- Normalización de variables
-- Feature engineering
-- Construcción de variables analíticas
-
-## 📊 Exploración y Visualización
-
-- Segmentación de clientes
-- Identificación de patrones de abandono
-- Dashboard ejecutivo en Power BI
-- Detección de segmentos críticos
-
-## 🤖 Machine Learning
-
-- Regresión logística con Scikit-learn
-- Evaluación de precisión
-- Interpretación de variables predictivas
-- Validación de desempeño del modelo
-
----
-
 # 📈 Impacto Potencial del Proyecto
 
 La implementación de una estrategia de retención basada en analítica predictiva permitiría:
@@ -143,6 +88,8 @@ La implementación de una estrategia de retención basada en analítica predicti
 - Priorizar clientes de alto valor
 
 El proyecto demuestra cómo la combinación de analítica avanzada, visualización ejecutiva y Machine Learning puede transformar datos operativos en decisiones estratégicas de negocio.
+
+![Importancia de Variables](img/variable_de_fuga.png)
 
 ---
 
