@@ -56,7 +56,7 @@ Esto generaba inversión comercial sin priorización estratégica y pérdida con
 
 # 📊 Dashboard Ejecutivo
 
-![Dashboard de Churn](img/grafica-analisis-churn.png)
+![Dashboard de Churn](img/grafica-analisis-churn.png width="75%"
 
 🔗 **Acceso al dashboard interactivo:**  
 👉 [Customer Retention Dashboard](https://github.com/GuilleBerrutti/analysis-churn/tree/main/dashboard)
